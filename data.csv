@@ -1,0 +1,2 @@
+﻿Sensor,       place , Orbit direction,   Track,  Mode, bbox ,                 num.SAFE, num.SAFE(cover BBOX),  num.date, num.date(cover BBOX),    Start date,  End date,    num.interferograms,  Path on kunlun
+Sentinel-1,   chile , Asc ,              149,    IW,   -26.5 -18.7 -72 -65,   2314,     2118,                  374,      324,                     20141027,    20240320,    3185,                /home/eedy/data/chile/s1_a149
