@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/dde20d72-45da-4342-8cd4-f9ea6d22a4d5)## notebook的功能介绍
+## notebook的功能介绍
 + gim_insar_vs_gnss.ipynb : insar和gnss的比较-GIM电离层校正
 + gim_vs_split.ipynb : gim和split的电离层时间序列和速度图像
 + hight_gim_insar_vs_gnss.ipynb : insar和gnss的比较-hjpl_GIM电离层校正
