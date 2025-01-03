@@ -8,7 +8,7 @@ Sentinel-1,   USA ,          Asc ,              64 ,    IW,   31.0  47.0 -125 -1
 ,    ,         ,             ,   ,  , ,     ,       ,  ,        ,             ,                 
 ALOS-2,       Japan,         Dsc ,                 ,    UBS,  31 33 130 131,         50,    50,          20150209,    20191111,    445,                 isce2+mintpy,            /home/eedy/data/Kyushu
 ALOS-2,       Japan,         Dsc ,                 ,    UBS,  31 35 130 132,           ,      ,          2014    ,    2024    ,       ,                 isce2+mintpy,            /home/eedy/data/Japan 
-ALOS-2,       USA ,          Dsc ,                 ,    SCAN, 32 40 -123 -117,       120,   60,          20150220,    20230519,    1770,                isce2+mintpy,            /home/eedy/scratch/liangcunren_alos2scan/alos2_d168_stack_2frames
-ALOS-2,       USA ,          Dsc ,                 ,    SCAN, 32 48 -123 -117,       160,   32,          20150220,    20220909,    496,                 isce2+mintpy,            /home/eedy/scratch/liangcunren_alos2scan/alos2_d168_stack_5frames     
+ALOS-2,       USA ,          Dsc ,              168,    SCAN, 32 40 -123 -117,       120,   60,          20150220,    20230519,    1770,                isce2+mintpy,            /home/eedy/scratch/liangcunren_alos2scan/alos2_d168_stack_2frames
+ALOS-2,       USA ,          Dsc ,              168,    SCAN, 32 48 -123 -117,       160,   32,          20150220,    20220909,    496,                 isce2+mintpy,            /home/eedy/scratch/liangcunren_alos2scan/alos2_d168_stack_5frames     
 ALOS-1,       USA ,          Asc ,              213,    UBD,  33 40 -120 -110,       135,   9,           20070628,    20101121,    36,                  isce2+mintpy,            /home/eedy/data/ion_los-angle/alos_test_213             
 ALOS-1,       Chile,         Asc ,              102,    FBD/FBS, -27 -23 -70 -67,    85,    17,          20070209,    20110220,      ,                              ,              
